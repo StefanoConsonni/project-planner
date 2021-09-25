@@ -18,6 +18,9 @@ This project is created with:
 
 - Vue.js version: 3.0
 - Vue Router: 4.0
+- HTML
+- CSS
+- Javascript
 
 ## Setup
 
@@ -28,6 +31,6 @@ $ cd project-planner
 $ npm install
 $ npx json-server --watch data/db.json
 $ npm run serve
-Go to the local server URL http://localhost:8080/
+open the web app with with the local server URL: http://localhost:8080/
 
 ```
