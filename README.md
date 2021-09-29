@@ -31,6 +31,6 @@ $ cd project-planner
 $ npm install
 $ npx json-server --watch data/db.json
 $ npm run serve
-open the web app with with the local server URL: http://localhost:8080/
+open the app with the local server URL: http://localhost:8080/
 
 ```
